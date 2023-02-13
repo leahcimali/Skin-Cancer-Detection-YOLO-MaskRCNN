@@ -14,8 +14,9 @@ https://github.com/leahcimali/Skin-cancer-segmentation/blob/main/Projet_YOLOv5_w
 
 https://github.com/leahcimali/Skin-cancer-segmentation/blob/main/Roboflow_Train_Detectron_2_Instance_Segmentation_Mask_RCNN%20.ipynb
 
+## Extra
 
-Dataset was manually anotated by using the computer vision platform Roboflow. 
+the dataset for task 2 and task 3 was manually anotated by using the computer vision platform Roboflow. 
 https://universe.roboflow.com/horizon-school-of-digital-technologies/skin-cancer-7hnpa/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 
